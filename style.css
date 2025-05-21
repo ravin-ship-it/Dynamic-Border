@@ -43,7 +43,6 @@ body {
   position: relative;
   border-radius: var(--border-radius);
   background-color: #0c0c0c;
-  /* border: 2px solid deeppink; */
 }
 
 /* Animated Border */
@@ -74,6 +73,5 @@ body {
     --angle: 360deg;
   }
 }
-
 
 /*# sourceMappingURL=style.css.map */
