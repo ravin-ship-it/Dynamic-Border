@@ -34,6 +34,7 @@ body {
 }
 
 .container {
+  height: 40%;
   width: 70%;
   padding: 1rem 2rem;
   display: flex;
@@ -53,7 +54,7 @@ body {
   height: 100%;
   width: 100%;
   padding: 2px;
-  animation: run 2s linear infinite;
+  animation: run 3s linear infinite;
   border-radius: var(--border-radius);
   background: conic-gradient(from var(--angle), var(--transparent), var(--seventh-color), var(--sixth-color), var(--fifth-color), var(--fourth-color), var(--third-color), var(--second-color), var(--first-color));
   z-index: -1;
